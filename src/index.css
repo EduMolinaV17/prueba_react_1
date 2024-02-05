@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(134, 10, 10);
+  color: white;
+}
+.container{
+  overflow-y: scroll;
+  width: 1000px;
+  height: 450px;
+  background-color: rgb(153, 10, 10);
+}
+footer{
+  margin-top: 10px;
+  padding-top: 30px;
+}
